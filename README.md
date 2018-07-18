@@ -1,0 +1,3 @@
+使用socket实现简单RPC模型。
+
+Server为服务提供者。启动类RpcPublisher。
